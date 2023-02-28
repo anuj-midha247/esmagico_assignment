@@ -34,4 +34,4 @@ export default {
 Now, create all these variables in the project and make sure you set ATLAS_URI variable.
 Otherwise, the project will not work.
 
-#Thanks For Reading.
+# Thanks For Reading.
